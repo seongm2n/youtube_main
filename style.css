@@ -208,8 +208,6 @@ header .icons img {
     
 }
 
-
-
 .info .metadata .subtitle {
     font-size: var(--font-small);
     color: var(--grey-dark-color);
@@ -235,7 +233,6 @@ header .icons img {
     margin-left: 100px;
     background-color: var(--white-color);
     font-size: var(--font-large);
-    border: 1px solid black;
 }
 
 .thumbnail2 img {
